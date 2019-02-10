@@ -1,4 +1,4 @@
-FROM lsiobase/alpine.arm64:3.8
+FROM lsiobase/alpine.arm64:3.9
 
 RUN \
  echo "**** install build packages ****" && \
